@@ -1,0 +1,44 @@
+.row{
+background-color: grey;
+display: block;
+padding-top: 5px;
+padding-bottom: 5px;
+border: 5px solid black;
+}
+
+.container{
+	border: 5px solid orange;
+
+}
+
+p{
+	font-weight: 400;
+}
+
+.btn{
+	background-color: green;
+	border-radius: 12px;
+	border: 2px solid black ;
+	cursor: pointer;
+	color: white;
+  	padding: 10px;
+  	font-weight: bold;
+  	text-align: center;
+}
+
+.btn:hover {
+	
+	border: 2px solid white ;
+}
+
+.poster{
+	border-radius: 8px;
+	border: 1px solid #ddd;
+}
+img{
+	ransition: all 1s;  
+}
+img:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
