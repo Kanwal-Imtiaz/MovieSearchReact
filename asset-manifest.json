@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MovieSearch/static/css/main.55298ce7.chunk.css",
-    "main.js": "/MovieSearch/static/js/main.101d9cf6.chunk.js",
-    "main.js.map": "/MovieSearch/static/js/main.101d9cf6.chunk.js.map",
-    "runtime-main.js": "/MovieSearch/static/js/runtime-main.ed084c69.js",
-    "runtime-main.js.map": "/MovieSearch/static/js/runtime-main.ed084c69.js.map",
-    "static/js/2.e3cafaab.chunk.js": "/MovieSearch/static/js/2.e3cafaab.chunk.js",
-    "static/js/2.e3cafaab.chunk.js.map": "/MovieSearch/static/js/2.e3cafaab.chunk.js.map",
-    "index.html": "/MovieSearch/index.html",
-    "precache-manifest.ea0d7eafc0dec44cd762d96adb5b74c4.js": "/MovieSearch/precache-manifest.ea0d7eafc0dec44cd762d96adb5b74c4.js",
-    "service-worker.js": "/MovieSearch/service-worker.js",
-    "static/css/main.55298ce7.chunk.css.map": "/MovieSearch/static/css/main.55298ce7.chunk.css.map"
+    "main.css": "/MovieSearchReact/static/css/main.55298ce7.chunk.css",
+    "main.js": "/MovieSearchReact/static/js/main.f3af90ff.chunk.js",
+    "main.js.map": "/MovieSearchReact/static/js/main.f3af90ff.chunk.js.map",
+    "runtime-main.js": "/MovieSearchReact/static/js/runtime-main.8a9d3653.js",
+    "runtime-main.js.map": "/MovieSearchReact/static/js/runtime-main.8a9d3653.js.map",
+    "static/js/2.e3cafaab.chunk.js": "/MovieSearchReact/static/js/2.e3cafaab.chunk.js",
+    "static/js/2.e3cafaab.chunk.js.map": "/MovieSearchReact/static/js/2.e3cafaab.chunk.js.map",
+    "index.html": "/MovieSearchReact/index.html",
+    "precache-manifest.4c94150d3199f387e89131af72633bdd.js": "/MovieSearchReact/precache-manifest.4c94150d3199f387e89131af72633bdd.js",
+    "service-worker.js": "/MovieSearchReact/service-worker.js",
+    "static/css/main.55298ce7.chunk.css.map": "/MovieSearchReact/static/css/main.55298ce7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed084c69.js",
+    "static/js/runtime-main.8a9d3653.js",
     "static/js/2.e3cafaab.chunk.js",
     "static/css/main.55298ce7.chunk.css",
-    "static/js/main.101d9cf6.chunk.js"
+    "static/js/main.f3af90ff.chunk.js"
   ]
 }
